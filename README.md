@@ -29,8 +29,9 @@
 ## 📌 Projetos em Destaque
 ✨ Aqui alguns dos meus projetos que estou desenvolvendo para estudar e fortalecer minhas habilidades:
 
-- [**Locker System**](https://github.com/mariavitoriaventura/LockerSystem) → Sistema para gestão de encomendas em prédios, desenvolvido com **Java Spring Boot*.  
-- [**Locker System_UI**](https://github.com/vitoriamatos/maisonstore) →  Sistema para gestão de encomendas em prédios, feito em **React**, com API própria e foco em **UI/UX**.  
+- [**Locker System**](https://github.com/mariavitoriaventura/LockerSystem) → Sistema para gestão de encomendas em prédios, desenvolvido com **Java Spring Boot**.  
+- [**Locker System_UI**](https://github.com/vitoriamatos/maisonstore) →  Sistema para gestão de encomendas em prédios, feito em **React**, com API própria e foco em **UI/UX**.
+- [**AirSketch**](https://github.com/mariavitoriaventura/AirSketch) → Aplicativo web experimental que usa **MediaPipe Hands + React** para transformar gestos da mão em desenhos.   
 ---
 
 ## 🌱 O que estou aprendendo agora
