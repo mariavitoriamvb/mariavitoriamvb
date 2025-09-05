@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Olá, eu sou Maria Vitória!
 
-<!--
-**mariavitoriaventura/mariavitoriaventura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Formada em Ciência da Computação** pela Universidade Católica de Pernambuco.  
+💼 Atualmente, trabalho como **Desenvolvedora ABAP** na **Accenture**.  
+🚀 Meu objetivo é construir uma carreira como **Full Stack Developer**, com foco em **Java** (back-end) e **React** (front-end).  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias & Ferramentas
+
+### 💻 Back-end
+- Java | Spring Boot  
+- Node.js | Express  
+- Banco de Dados: PostgreSQL | MySQL  
+
+### 🎨 Front-end
+- React.js  
+- Redux Toolkit  
+- TypeScript  
+- Styled-Components  
+
+### ⚙️ Outras experiências
+- ABAP (SAP)  
+- Git & GitHub  
+- Metodologias Ágeis (Scrum, Kanban)  
+
+---
+
+## 📌 Projetos em Destaque
+✨ Aqui alguns dos meus projetos que estou desenvolvendo para estudar e fortalecer minhas habilidades:
+
+- [**Locker System**](https://github.com/mariavitoriaventura/LockerSystem) → Sistema para gestão de encomendas em prédios, desenvolvido com **Java Spring Boot*.  
+- [**Locker System_UI**](https://github.com/vitoriamatos/maisonstore) →  Sistema para gestão de encomendas em prédios, feito em **React**, com API própria e foco em **UI/UX**.  
+---
+
+## 🌱 O que estou aprendendo agora
+- Aperfeiçoando **Spring Boot** e **JWT Authentication**.  
+- Construindo **interfaces modernas com React + Tailwind**.  
+- Explorando **arquiteturas full stack** e **boas práticas de design de software**.
+- Começando a estudar análise de dados
+
+---
+
+## 📫 Onde me encontrar
+- 💼 [LinkedIn](https://www.linkedin.com/in/vit%C3%B3ria-ventura-28953a382/)  
+---
+
+⭐ Se gostou dos meus projetos, sinta-se à vontade para dar um **star** nos repositórios!
