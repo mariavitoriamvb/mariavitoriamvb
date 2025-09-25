@@ -47,9 +47,4 @@
 - Começando a estudar análise de dados
 
 ---
-
-## 📫 Onde me encontrar
-- 💼 [LinkedIn](https://www.linkedin.com/in/vit%C3%B3ria-ventura-28953a382/)  
----
-
 ⭐ Se gostou dos meus projetos, sinta-se à vontade para dar um **star** nos repositórios!
